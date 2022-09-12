@@ -43,3 +43,6 @@
 [submodule "pack/dev/start/BlockDiff"]
 	path = pack/dev/start/BlockDiff
 	url = https://github.com/vikke/BlockDiff
+[submodule "pack/dev/start/tinygo.vim"]
+	path = pack/dev/start/tinygo.vim
+	url = https://github.com/sago35/tinygo.vim
