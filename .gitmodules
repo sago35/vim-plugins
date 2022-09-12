@@ -40,6 +40,3 @@
 [submodule "pack/dev/start/vimdoc-ja"]
 	path = pack/dev/start/vimdoc-ja
 	url = https://github.com/vim-jp/vimdoc-ja
-[submodule "pack/dev/start/BlockDiff"]
-	path = pack/dev/start/BlockDiff
-	url = https://github.com/vim-scripts/BlockDiff
